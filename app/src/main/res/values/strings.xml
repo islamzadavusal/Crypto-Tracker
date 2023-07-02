@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Crypto Tracker</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="price_change">Price change :</string>
+    <string name="total_volume">Total volume :</string>
+    <string name="current_price">Current price :</string>
+    <string name="set_min_price">Min price</string>
+    <string name="set_price">Set price</string>
+    <string name="confirm">Confirm</string>
+    <string name="set_max_price">Max price</string>
+    <string name="check_history">Check history</string>
+    <string name="previous_price_histories">Price histories</string>
+</resources>
